@@ -1,7 +1,7 @@
 #EXTM3U max-conn="2" url-tvg="https://play-berry.net/xmltv.xml.gz"
 #EXTINF:0 group-title="Deutschland" tvg-id="welt-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/e5560e1355971b04fef7dcf84b1b708c.png" catchup-source="http://rasp.berry-stream.net/welt-hd-orig-de/video-${start}-${duration}.m3u8?token=zlxiejko" tvg-rec="7" catchup-days="7",Welt HD
 #EXTGRP:Deutschland
-http://rasp.berry-stream.net:1600/s/zlxiejko/welt-hd-orig-de/video.m3u8
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinzirve.m3u8
 #EXTINF:0 group-title="Deutschland" tvg-id="ntv-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/ae51f6bf2ea9a39dac60d1eb1722da15.png" catchup-source="http://rasp.berry-stream.net/ntv-hd-orig-de/video-${start}-${duration}.m3u8?token=zlxiejko" tvg-rec="7" catchup-days="7",N-TV HD
 #EXTGRP:Deutschland
 http://rasp.berry-stream.net:1600/s/zlxiejko/ntv-hd-orig-de/video.m3u8
