@@ -7,7 +7,7 @@ http://rasp.berry-stream.net:1600/s/zlxiejko/welt-hd-orig-de/video.m3u8
 http://rasp.berry-stream.net:1600/s/zlxiejko/ntv-hd-orig-de/video.m3u8
 #EXTINF:0 group-title="Deutschland" tvg-id="das-erste-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/10c8d79afa94ff7ffb71f2487bb32601.png" catchup-source="http://rasp.berry-stream.net/das-erste-hd-orig-de/video-${start}-${duration}.m3u8?token=zlxiejko" tvg-rec="7" catchup-days="7",Das Erste HD
 #EXTGRP:Deutschland
-http://rasp.berry-stream.net:1600/s/zlxiejko/das-erste-hd-orig-de/video.m3u8
+https://corsproxy.live/?https://playhdnew5.buzz/yayinstar.m3u8
 #EXTINF:0 group-title="Deutschland" tvg-id="one-hd-orig-de" tvg-logo="https://play-berry.net/storage/images/pack_logos/527c3cb859049b78e7bbf758ccef513b.png" catchup-source="http://rasp.berry-stream.net/one-hd-orig-de/video-${start}-${duration}.m3u8?token=zlxiejko" tvg-rec="7" catchup-days="7",ONE HD
 #EXTGRP:Deutschland
 http://rasp.berry-stream.net:1600/s/zlxiejko/one-hd-orig-de/video.m3u8
