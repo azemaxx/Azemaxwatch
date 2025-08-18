@@ -1251,6 +1251,329 @@ http://rasp.berry-stream.net:1600/s/zlxiejko/azad-tv-az-hd/video.m3u8
 #EXTGRP:Azerbaijan
 http://rasp.berry-stream.net:1600/s/zlxiejko/xazar-tv-az-hd/video.m3u8
 #EXTINF:0 group-title="Azerbaijan" tvg-id="space-tv-az-hd" tvg-logo="https://play-berry.net/storage/images/channel_logos/space-tv-az.png" catchup-source="http://rasp.berry-stream.net/space-tv-az-hd/video-${start}-${duration}.m3u8?token=zlxiejko" tvg-rec="7" catchup-days="7",Space TV HD
-
-
-
+#EXTINF:-1,beIN Sports 1 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/65245
+#EXTINF:-1,beIN Sports 1 HD [ VIP ]
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/837269
+#EXTINF:-1,BeIN Sports 1 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/11
+#EXTINF:-1,beIN Sports 1 [Feed]
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/849136
+#EXTINF:-1,beIN Sports 1 4K
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/833320
+#EXTINF:-1,BeIN Sports 1 [50Fps]
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/855331
+#EXTINF:-1,beIN Sports 1 [Hevc]
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/855332
+#EXTINF:-1,BeIN Sports 1 SD [ Mobile ]
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/126566
+#EXTINF:-1,beIN Sports 2 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/19
+#EXTINF:-1,BeIN Sports 2 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/181791
+#EXTINF:-1,beIN Sports 3 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/20
+#EXTINF:-1,BeIN Sports 3 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/181792
+#EXTINF:-1,beIN Sports 4 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/25
+#EXTINF:-1,BeIN Sports 4 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/181793
+#EXTINF:-1,BeIN Sports 5 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/131499
+#EXTINF:-1,BeIN Sports 5 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/181794
+#EXTINF:-1,beIN Sports MAX 1 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/28
+#EXTINF:-1,beIN Sports MAX 1 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/181876
+#EXTINF:-1,beIN Sports MAX 2 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/30
+#EXTINF:-1,beIN Sports MAX 2 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/181877
+#EXTINF:-1,beIN Sports HABER HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/85258
+#EXTINF:-1,beIN. Connect 1 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/64942
+#EXTINF:-1,beIN. Connect 2 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/64943
+#EXTINF:-1,beIN. Connect 3 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/64944
+#EXTINF:-1,beIN. Connect 4 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/64945
+#EXTINF:-1,beIN. Connect 5 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/64946
+#EXTINF:-1,S Sport HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866986
+#EXTINF:-1,S Sport FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866987
+#EXTINF:-1,TR: S Sport 1 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866997
+#EXTINF:-1,TR: S Sport 1 RAW
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866996
+#EXTINF:-1,S Sport 2 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866988
+#EXTINF:-1,TR: S Sport 2 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866999
+#EXTINF:-1,S Sport 2 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866989
+#EXTINF:-1,TR: S Sport 2 RAW
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866998
+#EXTINF:-1,S Spor + Plus FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866990
+#EXTINF:-1,S Spor + Plus 2 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866991
+#EXTINF:-1,S Spor + Plus 3 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866992
+#EXTINF:-1,S Spor + Plus 4 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866993
+#EXTINF:-1,S Spor + Plus 5 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866994
+#EXTINF:-1,S Spor + Plus 6 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866995
+#EXTINF:-1,TR: Tabii TV FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866493
+#EXTINF:-1,TR: Tabii Spor HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866494
+#EXTINF:-1,TR: Tabii Spor FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866495
+#EXTINF:-1,TR: Tabii Spor 1 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866497
+#EXTINF:-1,TR: Tabii Spor 1 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866499
+#EXTINF:-1,TR: Tabii Spor 2 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866502
+#EXTINF:-1,TR: Tabii Spor 2 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866503
+#EXTINF:-1,TR: Tabii Spor 3 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866504
+#EXTINF:-1,TR: Tabii Spor 3 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866505
+#EXTINF:-1,TR: Tabii Spor 4 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866506
+#EXTINF:-1,TR: Tabii Spor 4 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866507
+#EXTINF:-1,TR: Tabii Spor 5 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866508
+#EXTINF:-1,TR: Tabii Spor 5 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866509
+#EXTINF:-1,TR: Tabii Spor 6 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866510
+#EXTINF:-1,TR: Tabii Spor 6 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866511
+#EXTINF:-1,TR: Exxen SPOR 1 SD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/872189
+#EXTINF:-1,TR: Exxen SPOR 1 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866574
+#EXTINF:-1,TR: Exxen SPOR 1 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866575
+#EXTINF:-1,TR: Exxen SPOR 2 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866576
+#EXTINF:-1,TR: Exxen SPOR 2 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866577
+#EXTINF:-1,TR: Exxen SPOR 3 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866578
+#EXTINF:-1,TR: Exxen SPOR 3 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866579
+#EXTINF:-1,TR: Exxen SPOR 4 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866580
+#EXTINF:-1,TR: Exxen SPOR 4 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866581
+#EXTINF:-1,TR: Exxen SPOR 5 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866582
+#EXTINF:-1,TR: Exxen SPOR 5 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866583
+#EXTINF:-1,TR: Exxen SPOR 6 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866584
+#EXTINF:-1,TR: Exxen SPOR 6 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866585
+#EXTINF:-1,Tivibu Spor HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/865740
+#EXTINF:-1,Tivibu Spor 1 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/865741
+#EXTINF:-1,Tivibu Spor 2 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/865742
+#EXTINF:-1,Tivibu Spor 3 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/865743
+#EXTINF:-1,Tivibu Spor 4 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/865744
+#EXTINF:-1,Akvaryum
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860801
+#EXTINF:-1,Germany-Almanya
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860802
+#EXTINF:-1,Australlia-Avusturalya
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860803
+#EXTINF:-1,France-Fransa
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860804
+#EXTINF:-1,Netherland-Hollanda
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860805
+#EXTINF:-1,England-Ingiltere
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860806
+#EXTINF:-1,Espain- Spain
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860807
+#EXTINF:-1,Switzerland- Isviçre
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860808
+#EXTINF:-1,Italy- Italya
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860809
+#EXTINF:-1,Iceland- Izlanda
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860810
+#EXTINF:-1,Japan- Japonya
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860811
+#EXTINF:-1,Norwey- Norveç
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860812
+#EXTINF:-1,Relax & Yoga Channels
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860813
+#EXTINF:-1,Turkey - Türkiye
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860814
+#EXTINF:-1,Usa - Amerika
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860815
+#EXTINF:-1,Bali
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860816
+#EXTINF:-1,S Spor + Plus 4 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866993
+#EXTINF:-1,S Spor + Plus 5 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866994
+#EXTINF:-1,S Spor + Plus 6 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866995
+#EXTINF:-1,TR: Tabii TV FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866493
+#EXTINF:-1,TR: Tabii Spor HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866494
+#EXTINF:-1,TR: Tabii Spor FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866495
+#EXTINF:-1,TR: Tabii Spor 1 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866497
+#EXTINF:-1,TR: Tabii Spor 1 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866499
+#EXTINF:-1,TR: Tabii Spor 2 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866502
+#EXTINF:-1,TR: Tabii Spor 2 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866503
+#EXTINF:-1,TR: Tabii Spor 3 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866504
+#EXTINF:-1,TR: Tabii Spor 3 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866505
+#EXTINF:-1,TR: Tabii Spor 4 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866506
+#EXTINF:-1,TR: Tabii Spor 4 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866507
+#EXTINF:-1,TR: Tabii Spor 5 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866508
+#EXTINF:-1,TR: Tabii Spor 5 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866509
+#EXTINF:-1,TR: Tabii Spor 6 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866510
+#EXTINF:-1,TR: Tabii Spor 6 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866511
+#EXTINF:-1,TR: Exxen SPOR 1 SD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/872189
+#EXTINF:-1,TR: Exxen SPOR 1 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866574
+#EXTINF:-1,TR: Exxen SPOR 1 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866575
+#EXTINF:-1,TR: Exxen SPOR 2 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866576
+#EXTINF:-1,TR: Exxen SPOR 2 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866577
+#EXTINF:-1,TR: Exxen SPOR 3 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866578
+#EXTINF:-1,TR: Exxen SPOR 3 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866579
+#EXTINF:-1,TR: Exxen SPOR 4 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866580
+#EXTINF:-1,TR: Exxen SPOR 4 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866581
+#EXTINF:-1,TR: Exxen SPOR 5 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866582
+#EXTINF:-1,TR: Exxen SPOR 5 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866583
+#EXTINF:-1,TR: Exxen SPOR 6 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866584
+#EXTINF:-1,TR: Exxen SPOR 6 FHD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/866585
+#EXTINF:-1,Tivibu Spor HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/865740
+#EXTINF:-1,Tivibu Spor 1 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/865741
+#EXTINF:-1,Tivibu Spor 2 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/865742
+#EXTINF:-1,Tivibu Spor 3 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/865743
+#EXTINF:-1,Tivibu Spor 4 HD
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/865744
+#EXTINF:-1,Akvaryum
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860801
+#EXTINF:-1,Germany-Almanya
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860802
+#EXTINF:-1,Australlia-Avusturalya
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860803
+#EXTINF:-1,France-Fransa
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860804
+#EXTINF:-1,Netherland-Hollanda
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860805
+#EXTINF:-1,England-Ingiltere
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860806
+#EXTINF:-1,Espain- Spain
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860807
+#EXTINF:-1,Switzerland- Isviçre
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860808
+#EXTINF:-1,Italy- Italya
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860809
+#EXTINF:-1,Iceland- Izlanda
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860810
+#EXTINF:-1,Japan- Japonya
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860811
+#EXTINF:-1,Norwey- Norveç
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860812
+#EXTINF:-1,Relax & Yoga Channels
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860813
+#EXTINF:-1,Turkey - Türkiye
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860814
+#EXTINF:-1,Usa - Amerika
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860815
+#EXTINF:-1,Bali
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860816
+#EXTINF:-1,Brazzers TV
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860770
+#EXTINF:-1,Brazzers Europe
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860771
+#EXTINF:-1,Brazzers HD 1
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860772
+#EXTINF:-1,Brazzers HD 2
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860773
+#EXTINF:-1,Brazzers HD 3
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860774
+#EXTINF:-1,Brazzers HD 4
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860775
+#EXTINF:-1,Brazzers HD 5
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860776
+#EXTINF:-1,Brazzers HD 6
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860777
+#EXTINF:-1,Brazzers HD 7
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860778
+#EXTINF:-1,Brazzers HD 8
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860779
+#EXTINF:-1,Brazzers HD 9
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860780
+#EXTINF:-1,Brazzers HD 10
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860781
+#EXTINF:-1,Brazzers HD 11
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860782
+#EXTINF:-1,Brazzers HD 12
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860783
+#EXTINF:-1,Brazzers HD 13
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860784
+#EXTINF:-1,Brazzers HD 14
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860785
+#EXTINF:-1,Brazzers HD 15
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860786
+#EXTINF:-1,Brazzers HD 16
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860787
+#EXTINF:-1,Brazzers HD 17
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860788
+#EXTINF:-1,Brazzers HD 18
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860789
+#EXTINF:-1,Brazzers HD 19
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860790
+#EXTINF:-1,Brazzers HD 20
+http://livasupport99.xyz:80/nejdetunsal/nu07122022/860791
