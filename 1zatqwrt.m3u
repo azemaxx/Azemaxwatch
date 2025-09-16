@@ -1,5 +1,9 @@
-#EXTINF:-1,DEXTER
-https://vs11.photoflax.org/v/Dexter.New.Blood.S01E01.WEB-DL.1080p.DUAL.x264-HDM/1080.m3u8
+#EXTINF:-1 tvg-id="Dexter" tvg-name="Dexter" tvg-logo="https://share.google/images/ZkWlXAZ4rRwy3khEL" group-title="Dizi",DEXTER1
+https://vs10.gamephotos.pro/v/Dexter.S01E01.1080p.BluRay.x264.TR.ENG/1080.m3u8
+#EXTINF:-1,DEXTER1
+https://vs10.gamephotos.pro/v/Dexter.S01E01.1080p.BluRay.x264.TR.ENG/1080.m3u8
+#EXTINF:-1,DEXTER2
+https://vs10.gamephotos.pro/v/Dexter.S01E02.1080p.BluRay.x264.TR.ENG/1080.m3u8
 #EXTINF:-1,beIN Sports 1 HD
 http://livasupport99.xyz:80/nejdetunsal/nu07122022/65245
 #EXTINF:-1,beIN Sports 1 HD [ VIP ]
