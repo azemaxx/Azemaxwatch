@@ -1,205 +1,166 @@
-#EXTM3U         
-#EXTINF:-1 tvg-id="9807" tvg-name="EPIC DRAMA HD" tvg-logo="http://logo.premium-ott.com:9999/logo/51754.png" group-title="TR SINEMA",EPIC DRAMA HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/31100
-#EXTINF:-1 tvg-id="" tvg-name="FILM SCREEN" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/FILMSCREEN.png" group-title="TR SINEMA",FILM SCREEN
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/46035
-#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="beIN MOVIES TURK" tvg-logo="https://www.pngitem.com/pimgs/m/83-836944_bein-movies-trk-hdtv-parallel-hd-png-download.png" group-title="TR SINEMA",beIN MOVIES TURK
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/5876
-#EXTINF:-1 tvg-id="SNMTV-0xa" tvg-name="SINEMA HD" tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV-GRI.png?v=1.0.0.68" group-title="TR SINEMA",SINEMA HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/2207
-#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="SINEMA 2 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-2_logo.png?1583004645" group-title="TR SINEMA",SINEMA 2 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/15089
-#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="SINEMA AKSIYON HD" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/sinema_aksiyon.png" group-title="TR SINEMA",SINEMA AKSIYON HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/2205
-#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="SINEMA AKSIYON 2 HD" tvg-logo="https://lo1.in/trk/sikak.png" group-title="TR SINEMA",SINEMA AKSIYON 2 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/15087
-#EXTINF:-1 tvg-id="SNM1001-0xa" tvg-name="SINEMA 1001 HD" tvg-logo="https://lo1.in/trk/sin1.png" group-title="TR SINEMA",SINEMA 1001 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/2204
-#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="SINEMA 1002 HD" tvg-logo="https://lo1.in/trk/sima10.png" group-title="TR SINEMA",SINEMA 1002 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/15079
-#EXTINF:-1 tvg-id="SNMYERLI-0xa" tvg-name="SINEMA YERLI HD" tvg-logo="https://lo1.in/trk/sinma0.png" group-title="TR SINEMA",SINEMA YERLI HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/12059
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA YERLI 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/sinemaYerli2.png" group-title="TR SINEMA",SINEMA YERLI 2 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/15081
-#EXTINF:-1 tvg-id="SNMKOMEDI-0xa" tvg-name="SINEMA KOMEDI HD" tvg-logo="https://lo1.in/trk/sinm.png" group-title="TR SINEMA",SINEMA KOMEDI HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/12063
-#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="SINEMA KOMEDI 2 HD" tvg-logo="https://lo1.in/trk/sink0.png" group-title="TR SINEMA",SINEMA KOMEDI 2 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/15083
-#EXTINF:-1 tvg-id="SNMAILE-0xa" tvg-name="SINEMA AILE HD" tvg-logo="https://lo1.in/trk/sinv0.png" group-title="TR SINEMA",SINEMA AILE HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/12064
-#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="SINEMA AILE 2 HD" tvg-logo="https://lo1.in/trk/sinv.png" group-title="TR SINEMA",SINEMA AILE 2 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/23643
-#EXTINF:-1 tvg-id="MOVSMCLASSIC-0xa" tvg-name="movieSMART CLASSIC HD" tvg-logo="https://lo1.in/trk/mvc.png" group-title="TR SINEMA",movieSMART CLASSIC HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/10796
-#EXTINF:-1 tvg-id="MOVSMTURK-0xa" tvg-name="movieSMART TURK HD" tvg-logo="https://lo1.in/trk/mot.png" group-title="TR SINEMA",movieSMART TURK HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/5866
-#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="diziSMART MAX HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/dizismart_max.png" group-title="TR SINEMA",diziSMART MAX HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/15100
-#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="diziSMART Premium HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/dizismart_premium.png" group-title="TR SINEMA",diziSMART Premium HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/23640
-#EXTINF:-1 tvg-id="FXHD-0xa" tvg-name="FX HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/fx.png" group-title="TR SINEMA",FX HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/10795
-#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES PREMIERE" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_movies_premiere_1.png" group-title="TR SINEMA",beIN MOVIES PREMIERE
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47976
-#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES PREMIERE 2" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_movies_premire_2.png" group-title="TR SINEMA",beIN MOVIES PREMIERE 2
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/141028
-#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="beIN MOVIES STARS HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_movies_stars.png" group-title="TR SINEMA",beIN MOVIES STARS HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/26595
-#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES FAMILY HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_movies_family.png" group-title="TR SINEMA",beIN MOVIES FAMILY HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/32219
-#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="beIN SERIES 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSeries1.png" group-title="TR SINEMA",beIN SERIES 1 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/5869
-#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="beIN SERIES 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSeries2.png" group-title="TR SINEMA",beIN SERIES 2 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/26591
-#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="beIN SERIES 3 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSeries3.png" group-title="TR SINEMA",beIN SERIES 3 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/5870
-#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="beIN SERIES 4 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSeries4.png" group-title="TR SINEMA",beIN SERIES 4 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/5868
-#EXTINF:-1 tvg-id="" tvg-name="beIN SERIES COMEDY" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_series_comedy.png" group-title="TR SINEMA",beIN SERIES COMEDY
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/1685
-#EXTINF:-1 tvg-id="1" tvg-name="beIN SERIES DRAMA" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_series_drama.png" group-title="TR SINEMA",beIN SERIES DRAMA
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/5877
-#EXTINF:-1 tvg-id="" tvg-name="beIN BOX OFFICE 1" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_box_office.png" group-title="TR SINEMA",beIN BOX OFFICE 1
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/141030
-#EXTINF:-1 tvg-id="" tvg-name="beIN BOX OFFICE 2" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_box_office_2.png" group-title="TR SINEMA",beIN BOX OFFICE 2
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/141029
-#EXTINF:-1 tvg-id="" tvg-name="beIN BOX OFFICE 3" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_box_office_3.png" group-title="TR SINEMA",beIN BOX OFFICE 3
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69148
-#EXTINF:-1 tvg-id="" tvg-name="PLAY TV 3 HD" tvg-logo="http://188.214.27.75/pcnn/play3.png" group-title="TR SINEMA",PLAY TV 3 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/171166
-#EXTINF:-1 tvg-id="" tvg-name="CINE 5 HD" tvg-logo="http://188.214.27.75/pcnn/cin5.png" group-title="TR SINEMA",CINE 5 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/170295
-#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM HD" tvg-logo="http://188.214.27.75/pcnn/cineprem.png" group-title="TR SINEMA",CINE PREMIUM HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/31097
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA TV HD" tvg-logo="http://188.214.27.75/pcnn/cinem.png" group-title="TR SINEMA",CINEMA TV HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/169128
-#EXTINF:-1 tvg-id="" tvg-name="TV MOVIE HD" tvg-logo="http://188.214.27.75/pcnn/tvmovie.png" group-title="TR SINEMA",TV MOVIE HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/169127
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://188.214.27.75/pcnn/hbo.png" group-title="TR SINEMA",HBO HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/169126
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME HD" tvg-logo="http://188.214.27.75/pcnn/showtim.png" group-title="TR SINEMA",SHOWTIME HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/37036
-#EXTINF:-1 tvg-id="" tvg-name="TNT FILM HD" tvg-logo="http://188.214.27.75/pcnn/tntfhd.png" group-title="TR SINEMA",TNT FILM HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/48452
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HD" tvg-logo="http://188.214.27.75/pcnn/filmboxh.png" group-title="TR SINEMA",FILMBOX HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/1660
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ACTION HD" tvg-logo="http://188.214.27.75/pcnn/filmboxact.png" group-title="TR SINEMA",FILMBOX ACTION HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/138799
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX PREMIUM HD" tvg-logo="http://188.214.27.75/pcnn/filmboxprem.png" group-title="TR SINEMA",FILMBOX PREMIUM HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/23644
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX EXTRA HD" tvg-logo="http://188.214.27.75/pcnn/filmboxextr.png" group-title="TR SINEMA",FILMBOX EXTRA HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/48448
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FAMILY HD" tvg-logo="http://188.214.27.75/pcnn/filmboxfam.png" group-title="TR SINEMA",FILMBOX FAMILY HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/48450
-#EXTINF:-1 tvg-id="" tvg-name="KingBox Gold" tvg-logo="" group-title="TR SINEMA",KingBox Gold
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/68541
-#EXTINF:-1 tvg-id="" tvg-name="KingBox Gold 2" tvg-logo="" group-title="TR SINEMA",KingBox Gold 2
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/46618
-#EXTINF:-1 tvg-id="" tvg-name="KingBox Action" tvg-logo="" group-title="TR SINEMA",KingBox Action
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/171191
-#EXTINF:-1 tvg-id="" tvg-name="KingBox Action 2" tvg-logo="http://188.214.27.75/pcnn/kingboxprime2.png" group-title="TR SINEMA",KingBox Action 2
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/141053
-#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="KingBox Prime" tvg-logo="" group-title="TR SINEMA",KingBox Prime
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/128345
-#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="KingBox Prime 2" tvg-logo="" group-title="TR SINEMA",KingBox Prime 2
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/128343
-#EXTINF:-1 tvg-id="" tvg-name="KingBox Boxset" tvg-logo="" group-title="TR SINEMA",KingBox Boxset
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/94988
-#EXTINF:-1 tvg-id="" tvg-name="KingBox Turk" tvg-logo="" group-title="TR SINEMA",KingBox Turk
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/28558
-#EXTINF:-1 tvg-id="" tvg-name="KingBox Turk 2" tvg-logo="" group-title="TR SINEMA",KingBox Turk 2
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69006
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY HD" tvg-logo="http://188.214.27.75/pcnn/canalplay.png" group-title="TR SINEMA",CANAL PLAY HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47977
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 3 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay3.png" group-title="TR SINEMA",CANAL PLAY 3 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/169250
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 4 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay4.png" group-title="TR SINEMA",CANAL PLAY 4 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/169251
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 5 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay5.png" group-title="TR SINEMA",CANAL PLAY 5 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/170087
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 6 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay6.png" group-title="TR SINEMA",CANAL PLAY 6 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/46034
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 7 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay7.png" group-title="TR SINEMA",CANAL PLAY 7 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/46033
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 8 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay8.png" group-title="TR SINEMA",CANAL PLAY 8 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/46032
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 9 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay9.png" group-title="TR SINEMA",CANAL PLAY 9 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/46030
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 10 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay10.png" group-title="TR SINEMA",CANAL PLAY 10 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/46026
-#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX MOVIE 1" tvg-logo="http://188.214.27.75/pcnn/nextboxmovie1.png" group-title="TR SINEMA",NEXTBOX MOVIE 1
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/168464
-#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX MOVIE 2" tvg-logo="http://188.214.27.75/pcnn/nextboxmovie2.png" group-title="TR SINEMA",NEXTBOX MOVIE 2
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/168463
-#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX MOVIE 3" tvg-logo="http://188.214.27.75/pcnn/nextboxmovie3.png" group-title="TR SINEMA",NEXTBOX MOVIE 3
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/168462
-#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX MOVIE 4" tvg-logo="http://188.214.27.75/pcnn/nextboxmovie4.png" group-title="TR SINEMA",NEXTBOX MOVIE 4
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/168461
-#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX MOVIE 5" tvg-logo="http://188.214.27.75/pcnn/nextboxmovie5.png" group-title="TR SINEMA",NEXTBOX MOVIE 5
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/168460
-#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX ACTION" tvg-logo="http://188.214.27.75/pcnn/nextboxaction.png" group-title="TR SINEMA",NEXTBOX ACTION
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/168459
-#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX DREAM" tvg-logo="http://188.214.27.75/pcnn/nextboxdream.png" group-title="TR SINEMA",NEXTBOX DREAM
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/168458
-#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX GOLD" tvg-logo="http://188.214.27.75/pcnn/nextboxgold.png" group-title="TR SINEMA",NEXTBOX GOLD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/168457
-#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX TESLA" tvg-logo="http://188.214.27.75/pcnn/nextboxnesla.png" group-title="TR SINEMA",NEXTBOX TESLA
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/168456
-#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX WALL" tvg-logo="http://188.214.27.75/pcnn/nextboxwall.png" group-title="TR SINEMA",NEXTBOX WALL
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/168455
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA ACTION" tvg-logo="" group-title="TR SINEMA",CINEMA ACTION
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/141055
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA COMEDY" tvg-logo="" group-title="TR SINEMA",CINEMA COMEDY
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/171535
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA FANTASTIC" tvg-logo="" group-title="TR SINEMA",CINEMA FANTASTIC
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/141049
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM" tvg-logo="" group-title="TR SINEMA",CINEMAXIMUM
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/141054
-#EXTINF:-1 tvg-id="" tvg-name="XERO DISNEY+" tvg-logo="" group-title="TR SINEMA",XERO DISNEY+
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/141050
-#EXTINF:-1 tvg-id="" tvg-name="XERO NETFLIX" tvg-logo="" group-title="TR SINEMA",XERO NETFLIX
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/14645
-#EXTINF:-1 tvg-id="" tvg-name="XERO KORKU" tvg-logo="" group-title="TR SINEMA",XERO KORKU
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/180084
-#EXTINF:-1 tvg-id="" tvg-name="XERO BILIM KURGU" tvg-logo="" group-title="TR SINEMA",XERO BILIM KURGU
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/141052
-#EXTINF:-1 tvg-id="" tvg-name="XERO AMAZON" tvg-logo="" group-title="TR SINEMA",XERO AMAZON
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/128344
-#EXTINF:-1 tvg-id="" tvg-name="BLUE TV NETFLIX" tvg-logo="" group-title="TR SINEMA",BLUE TV NETFLIX
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/48484
-#EXTINF:-1 tvg-id="" tvg-name="F BOX IMDB100 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxaction2.png" group-title="TR SINEMA",F BOX IMDB100 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/141051
-#EXTINF:-1 tvg-id="" tvg-name="F BOX TURK 1 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxturk.png" group-title="TR SINEMA",F BOX TURK 1 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/141048
-#EXTINF:-1 tvg-id="" tvg-name="F BOX TURK 2 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxturk2.png" group-title="TR SINEMA",F BOX TURK 2 HD
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/141047
-#EXTINF:-1 tvg-id="cinemax1" tvg-name="LIVING CINEMAX 1" tvg-logo="https://imagizer.imageshack.com/img923/3999/sIGXjb.png" group-title="TR SINEMA",LIVING CINEMAX 1
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/13176
-#EXTINF:-1 tvg-id="cinemax2" tvg-name="LIVING CINEMAX 2" tvg-logo="https://imagizer.imageshack.com/img924/6469/ItONZk.png" group-title="TR SINEMA",LIVING CINEMAX 2
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/45426
-#EXTINF:-1 tvg-id="" tvg-name="LIVING CINEMAX 3" tvg-logo="https://imagizer.imageshack.com/img924/3551/TY7Mwu.png" group-title="TR SINEMA",LIVING CINEMAX 3
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/9389
-#EXTINF:-1 tvg-id="" tvg-name="LIVING CINEMAX 4" tvg-logo="http://188.214.27.75/pcnn/cinemax4.png" group-title="TR SINEMA",LIVING CINEMAX 4
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/9388
-#EXTINF:-1 tvg-id="" tvg-name="LIVING CINEMAX 5" tvg-logo="http://188.214.27.75/pcnn/cinemax5.png" group-title="TR SINEMA",LIVING CINEMAX 5
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/45233
-#EXTINF:-1 tvg-id="" tvg-name="LIVING PREMIUM" tvg-logo="" group-title="TR SINEMA",LIVING PREMIUM
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/37065
-#EXTINF:-1 tvg-id="" tvg-name="LIVING STAR" tvg-logo="" group-title="TR SINEMA",LIVING STAR
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/37066
-#EXTINF:-1 tvg-id="" tvg-name="LIVING WESTERN" tvg-logo="http://188.214.27.75/pcnn/western.png" group-title="TR SINEMA",LIVING WESTERN
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/9387
-#EXTINF:-1 tvg-id="" tvg-name="LIVING TURK" tvg-logo="http://188.214.27.75/pcnn/piconTURK.png" group-title="TR SINEMA",LIVING TURK
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/9379
-#EXTINF:-1 tvg-id="" tvg-name="LIVING YESILCAM" tvg-logo="http://188.214.27.75/pcnn/yesilcam.png" group-title="TR SINEMA",LIVING YESILCAM
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/45425
-#EXTINF:-1 tvg-id="" tvg-name="LIVING KEMAL SUNAL" tvg-logo="https://lo1.in/trk/kem.png" group-title="TR SINEMA",LIVING KEMAL SUNAL
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/26598
-#EXTINF:-1 tvg-id="" tvg-name="YESILCAM Kemal Sunal" tvg-logo="" group-title="TR SINEMA",YESILCAM Kemal Sunal
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/128342
-#EXTINF:-1 tvg-id="" tvg-name="LIVING Yedi Numara" tvg-logo="https://i.imgur.com/ZTGYBRm.png" group-title="TR SINEMA",LIVING Yedi Numara
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/31224
-#EXTINF:-1 tvg-id="" tvg-name="LIVING BIZIMKILER TV" tvg-logo="http://188.214.27.75/pcnn/bizimkiler.png" group-title="TR SINEMA",LIVING BIZIMKILER TV
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/14924
-#EXTINF:-1 tvg-id="" tvg-name="LIVING SHOW 1" tvg-logo="https://imagizer.imageshack.com/img923/3201/hVbX9j.png" group-title="TR SERIES",LIVING SHOW 1
-http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/2241
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1 SD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR beINSPORTS",beINSPORTS 1 SD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69004
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR beINSPORTS",beINSPORTS 1
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69005
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1 HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR beINSPORTS",beINSPORTS 1 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69007
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 1 HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR beINSPORTS",beINSPORTS 1 HD 50FPS
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/38795
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1 4K" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR beINSPORTS",beINSPORTS 1 4K
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69558
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1 VO" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR beINSPORTS",beINSPORTS 1 VO
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69008
+#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="beINSPORTS 2" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_2.png" group-title="TR beINSPORTS",beINSPORTS 2
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/31455
+#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="beINSPORTS 2 HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_2.png" group-title="TR beINSPORTS",beINSPORTS 2 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/15161
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 2 HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_2.png" group-title="TR beINSPORTS",beINSPORTS 2 HD 50FPS
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/12090
+#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="beINSPORTS 2 4K" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_2.png" group-title="TR beINSPORTS",beINSPORTS 2 4K
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69279
+#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-name="beINSPORTS 3" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_3.png" group-title="TR beINSPORTS",beINSPORTS 3
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/24857
+#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-name="beINSPORTS 3 HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_3.png" group-title="TR beINSPORTS",beINSPORTS 3 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/15160
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_3.png" group-title="TR beINSPORTS",beINSPORTS 3 HD 50FPS
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69145
+#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-name="beINSPORTS 3 4K" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_3.png" group-title="TR beINSPORTS",beINSPORTS 3 4K
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69281
+#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-name="beINSPORTS 4" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_4.png" group-title="TR beINSPORTS",beINSPORTS 4
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/32529
+#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-name="beINSPORTS 4 HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_4.png" group-title="TR beINSPORTS",beINSPORTS 4 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/15159
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 4 HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_4.png" group-title="TR beINSPORTS",beINSPORTS 4 HD 50FPS
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47535
+#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-name="beINSPORTS 4 4K" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_4.png" group-title="TR beINSPORTS",beINSPORTS 4 4K
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69283
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSports5.png" group-title="TR beINSPORTS",beINSPORTS 5
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69789
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSports5.png" group-title="TR beINSPORTS",beINSPORTS 5 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69790
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 HD 50FPS" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSports5.png" group-title="TR beINSPORTS",beINSPORTS 5 HD 50FPS
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69142
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 4K" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSports5.png" group-title="TR beINSPORTS",beINSPORTS 5 4K
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69003
+#EXTINF:-1 tvg-id="beINSportsMax1Turkey.tr" tvg-name="beINSPORTS 1max" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_1.png" group-title="TR beINSPORTS",beINSPORTS 1max
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/65818
+#EXTINF:-1 tvg-id="beINSportsMax1Turkey.tr" tvg-name="beINSPORTS 1max HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_1.png" group-title="TR beINSPORTS",beINSPORTS 1max HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/15158
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 1max HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_1.png" group-title="TR beINSPORTS",beINSPORTS 1max HD 50FPS
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47978
+#EXTINF:-1 tvg-id="beINSportsMax2Turkey.tr" tvg-name="beINSPORTS 2max" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_2.png" group-title="TR beINSPORTS",beINSPORTS 2max
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/32058
+#EXTINF:-1 tvg-id="beINSportsMax2Turkey.tr" tvg-name="beINSPORTS 2max HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_2.png" group-title="TR beINSPORTS",beINSPORTS 2max HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/15157
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 2max HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_2.png" group-title="TR beINSPORTS",beINSPORTS 2max HD 50FPS
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69144
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 1 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR beINSPORTS",beINCONNECT 1 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/44682
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 2 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR beINSPORTS",beINCONNECT 2 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/44681
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 3 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR beINSPORTS",beINCONNECT 3 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/44680
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 4 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR beINSPORTS",beINCONNECT 4 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/44679
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 5 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR beINSPORTS",beINCONNECT 5 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/44678
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 6 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR beINSPORTS",beINCONNECT 6 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/44677
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 7 HD" tvg-logo="" group-title="TR beINSPORTS",beINCONNECT 7 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/10914
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 8 HD" tvg-logo="" group-title="TR beINSPORTS",beINCONNECT 8 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/10925
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 9 HD" tvg-logo="" group-title="TR beINSPORTS",beINCONNECT 9 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/10956
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR tabii SPOR",tabii SPOR HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/165960
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR tabii SPOR",tabii SPOR UHD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/165959
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 1 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR tabii SPOR",tabii SPOR 1 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/164638
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 1 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR tabii SPOR",tabii SPOR 1 UHD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/164637
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 2 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR tabii SPOR",tabii SPOR 2 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/164636
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 2 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR tabii SPOR",tabii SPOR 2 UHD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/164635
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 3 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR tabii SPOR",tabii SPOR 3 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/164634
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 3 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR tabii SPOR",tabii SPOR 3 UHD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/164633
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 4 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR tabii SPOR",tabii SPOR 4 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/164617
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 4 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR tabii SPOR",tabii SPOR 4 UHD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/164616
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 5 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR tabii SPOR",tabii SPOR 5 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/164615
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 5 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR tabii SPOR",tabii SPOR 5 UHD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/164614
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 6 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR tabii SPOR",tabii SPOR 6 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/164613
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 6 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR tabii SPOR",tabii SPOR 6 UHD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/164612
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 7 HD" tvg-logo="" group-title="TR tabii SPOR",tabii SPOR 7 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/174092
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 7 UHD" tvg-logo="" group-title="TR tabii SPOR",tabii SPOR 7 UHD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/66692
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR SSPORT",SSPORT
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/2040
+#EXTINF:-1 tvg-id="SSPORT-0xa" tvg-name="SSPORT HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR SSPORT",SSPORT HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/15804
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="SSPORT UHD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR SSPORT",SSPORT UHD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/127095
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="SSPORT 2" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport_2.png" group-title="TR SSPORT",SSPORT 2
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/46616
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport_2.png" group-title="TR SSPORT",SSPORT 2 HD
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/10028
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT+ LIVE HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR SSPORT",SSPORT+ LIVE HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/27631
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT+ 1 LIVE HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR SSPORT",SSPORT+ 1 LIVE HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/46649
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT+ 2 LIVE HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR SSPORT",SSPORT+ 2 LIVE HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/46650
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT+ 3 LIVE HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR SSPORT",SSPORT+ 3 LIVE HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/46651
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT+ 4 LIVE HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR SSPORT",SSPORT+ 4 LIVE HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/46652
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT+ 5 LIVE HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR SSPORT",SSPORT+ 5 LIVE HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/46653
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 1 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 1 ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47534
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 1 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 1 HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47363
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 2 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 2 HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47362
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 2 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 2 HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/69143
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 3 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 3 ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47536
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 3 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 3 HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47361
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 4 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 4 ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47537
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 4 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 4 HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47360
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 5 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 5 ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47538
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 5 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 5 HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47359
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 6 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 6 ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47539
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 6 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 6 HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47315
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 7 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 7 ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47993
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 7 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 7 HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47992
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 8 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 8 ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47991
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 8 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 8 HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47990
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 9 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 9 ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47989
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 9 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR EXXEN SPOR",EXXEN 9 HD ( YAYIN ZAMANI AKTIF )
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/47988
+#EXTINF:-1 tvg-id="" tvg-name="LIVING SOMINE" tvg-logo="https://i.imgur.com/OHfjGQZ.png" group-title="TR MUZIK",LIVING SOMINE
+http://gzd.url4.fun:80/Garanisfora662/suuAyhgB6G/38851
